@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name" >Quiz_Assignment</string>
+    <string name="get_the_average" >Get The Average</string>
+    <string name="select_the_number_of_question">Select The Number of Question</string>
+    <string name="reset_the_saved_result">Reset The Saved Result</string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="saveBtn">SAVE</string>
+    <string name="ignoreBtn">IGNORE</string>
+    <string name="dialogTitle">Result</string>
+    <string name="message">Your score is: %1$d out of %2$d.</string>
+    <string name="results">Your correct answers are %1$d in %2$d attempts.</string>
+    <string name="noHistory">No History Available!</string>
+    <string name="questionNo">Select number of questions</string>
+
+    <string-array name="numQ">
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Despite their brain size, elephant memory is short-lived.</item>
+        <item>The Moon is slowly moving towards the Earth.</item>
+        <item>Horses can sleep standing up.</item>
+        <item>There are nearly 500 types of cactus in the world.</item>
+        <item>Camels store water in their humps.</item>
+        <item>Crocodiles shed tears while eating.</item>
+        <item>Bats are not blind.</item>
+        <item>Cows have best friends.</item>
+        <item>Rats are ticklish.</item>
+        <item>Some species of penguin are very romantic.</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#22577A</item>
+        <item>#38A3A5</item>
+        <item>#57CC99</item>
+        <item>#80ED99</item>
+        <item>#FF8882</item>
+        <item>#FFC93C</item>
+        <item>#F78259</item>
+        <item>#65587F</item>
+        <item>#0B4619</item>
+        <item>#B05B3B</item>
+        <item>#FF8243</item>
+        <item>#00917C</item>
+        <item>#FFA6D5</item>
+        <item>#864879</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+        <item>True</item>
+    </string-array>
+
+</resources>

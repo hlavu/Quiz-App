@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Kiểm Tra</string>
+    <string name="get_the_average" >Điểm trung bình </string>
+    <string name="select_the_number_of_question">Chọn tổng số câu hỏi </string>
+    <string name="reset_the_saved_result">Xóa dữ liệu </string>
+    <string name="trueBtn">Đúng</string>
+    <string name="falseBtn">Sai</string>
+    <string name="correct">Chính xác </string>
+    <string name="incorrect">Không chính xác </string>
+    <string name="saveBtn">LƯU</string>
+    <string name="ignoreBtn">BỎ QUA</string>
+    <string name="dialogTitle">Kết quả</string>
+    <string name="message">Điểm của bạn là: %1$d trên %2$d.</string>
+    <string name="results">Tổng số câu trả lời đúng của bạn là %1$d sau %2$d lần thực hiện.</string>
+    <string name="noHistory">Lịch sử trống!</string>
+    <string name="questionNo">Chọn tổng số câu hỏi</string>
+
+
+    <string-array name="numQ">
+        <item>5</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Do kích thước của não nên trí nhớ của voi rất ngắn.</item>
+        <item>Mặt Trăng đang chậm chậm tiến lại gần Trái Đất.</item>
+        <item>Ngựa có thể đứng ngủ.</item>
+        <item>Có khoảng gần 500 loại xương rồng trên thế giới.</item>
+        <item>Lạc Đà dự trữ nước trong bướu của nó.</item>
+        <item>Cá Sấu chảy nước mắt khi nó đang ăn.</item>
+        <item>Dơi không bị mù.</item>
+        <item>Loài Bò cũng có bạn thân.</item>
+        <item>Loài Chuột cũng có máu buồn.</item>
+        <item>Một số loại Chim Cánh Cụt rất lãng mạn.</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>#22577A</item>
+        <item>#38A3A5</item>
+        <item>#57CC99</item>
+        <item>#80ED99</item>
+        <item>#FF8882</item>
+        <item>#FFC93C</item>
+        <item>#F78259</item>
+        <item>#65587F</item>
+        <item>#0B4619</item>
+        <item>#B05B3B</item>
+        <item>#FF8243</item>
+        <item>#00917C</item>
+        <item>#FFA6D5</item>
+        <item>#864879</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>Sai</item>
+        <item>Sai</item>
+        <item>Đúng</item>
+        <item>Sai</item>
+        <item>Sai</item>
+        <item>Đúng</item>
+        <item>Đúng</item>
+        <item>Đúng</item>
+        <item>Đúng</item>
+        <item>Đúng</item>
+    </string-array>
+
+</resources>
